@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a software engineering student at UTFPR (Federal technological university of Parana) and a very curious guy;
+- I am a software engineering student at UTFPR (Federal Technological University of Parana) and a very curious guy;
 - Born in São José dos Campos, São Paulo; :home:
 
 ### What am I doing right now? :computer:
