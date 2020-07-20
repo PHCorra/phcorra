@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I am a software engineering student at UTFPR (Federal Technological University of Parana) and a very curious guy;
-- Born in São José dos Campos, São Paulo; :home:
+- Born in São José dos Campos, São Paulo;
 
 ### What am I doing right now? :computer:
 - Focus on javascript, html and css for web development;
