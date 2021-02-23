@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Born in São José dos Campos, São Paulo;
 
 ### What am I doing right now? :computer:
+- I am studying Software Engineering at UTFPR (Federal University of Technology – Paraná)
 - Focus on javascript, html and css for web development;
 - Studying some other technologies to get a "full stack" notion.
 
