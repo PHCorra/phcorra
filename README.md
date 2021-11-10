@@ -1,32 +1,16 @@
-## Hi my name is Pedro Corrá 👋
+## Olá eu me chamo Pedro Corrá👋
 
-<!--
-**PHCorra/phcorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou de São José dos Campos, São Paulo.
 
-Here are some ideas to get you started:
+### O que estou estudando atualmente?:computer:
+- Faço Engenharia de Software na UTFPR (Universidade Tecnológica Federal do Paraná) - 3° período;
+- Tenho o foco de estudos na tecnologia Java (com o framework Spring) e também estudo SQL com o SGBD MySQL;
+- Tenho conhecimento também em Javascript, HTML e CSS para a criação de landing pages;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- Born in São José dos Campos, São Paulo;
-
-### What am I doing right now? :computer:
-- I am studying Software Engineering at UTFPR (Federal University of Technology – Paraná)
-- Focus on javascript, html and css for web development;
-- Studying some other technologies to get a "full stack" notion.
-
-### Where you find me :floppy_disk:
+### Onde você pode me encontrar? :floppy_disk:
 - [Linkedin](https://www.linkedin.com/in/pedro-c-95b57212a/)
 - [Instagram](https://www.instagram.com/corrazito/)
 
-### Some Feedback? Talk to me! :speech_balloon:
-- I am available to hear critics, tips, help or just a good conversation about codes, games, movies and anything else. 
+### Algum feedback? Fale comigo! :speech_balloon:
+- Estou disponível para critícas, elogios e qualquer auxílio que estejam disposto a dar.
 
