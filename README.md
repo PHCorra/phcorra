@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Pedro Corrá👋
 
 - Sou de São José dos Campos, São Paulo;
-- Tenho 20 anos.
+- Tenho 19 anos.
 
 ### O que estou estudando atualmente?:computer:
 - Faço Engenharia de Software na UTFPR (Universidade Tecnológica Federal do Paraná) - 3° período;
