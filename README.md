@@ -15,3 +15,5 @@
 ### Algum feedback? Fale comigo! :speech_balloon:
 - Estou disponível para critícas, elogios ou só se quiser bater um papo mesmo :)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={PHCorra}&theme=blue-green
+
