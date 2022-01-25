@@ -16,3 +16,5 @@
 - Estou disponível para critícas, elogios ou só se quiser bater um papo mesmo :)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHCorra&theme=gotham&layout=compact)
