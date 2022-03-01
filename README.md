@@ -2,10 +2,11 @@
 
 - Sou de São José dos Campos, São Paulo;
 - Tenho 19 anos.
+- Desenvolvedor back-end pela empresa Sidelab.
 
 ### O que estou estudando atualmente?:computer:
 - Faço Desenvolvimento de Software Multiplataforma na FATEC;
-- Tenho o foco dos meus estudos na tecnologia Java (com o framework Spring) e também estudo SQL com SGBD'S como MySQL e SQL Server;
+- Tenho o foco dos meus estudos no desenvolvimento de aplicações Web (atualmente trablahando com Javascript e Node) e também estudo SQL com SGBD'S como MySQL e SQL Server;
 - Tenho conhecimento também em Javascript, HTML e CSS para a criação de landing pages básicas;
 
 ### Onde você pode me encontrar? :floppy_disk:
