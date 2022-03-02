@@ -6,7 +6,7 @@
 
 ### O que estou estudando atualmente?:computer:
 - Faço Desenvolvimento de Software Multiplataforma na FATEC;
-- Tenho o foco dos meus estudos no desenvolvimento de aplicações Web (atualmente trablahando com Javascript e Node) e também estudo SQL com SGBD'S como MySQL e SQL Server;
+- Tenho o foco dos meus estudos no desenvolvimento de aplicações Web (atualmente trabalhando com Typescript e Node) e também estudo SQL com SGBD'S como MySQL e SQL Server;
 - Tenho conhecimento também em Javascript, HTML e CSS para a criação de landing pages básicas;
 
 ### Onde você pode me encontrar? :floppy_disk:
