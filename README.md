@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Pedro Corrá👋
 
 - Sou de São José dos Campos, São Paulo;
-- Tenho 19 anos.
+- Tenho 20 anos.
 - Desenvolvedor back-end pela empresa Sidelab.
 
 ### O que estou estudando atualmente?:computer:
