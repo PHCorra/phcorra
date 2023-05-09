@@ -11,7 +11,6 @@
 
 ### Onde você pode me encontrar? :floppy_disk:
 - [Linkedin](https://www.linkedin.com/in/pedro-c-95b57212a/)
-- [Instagram](https://www.instagram.com/corrazito/)
 
 ### Algum feedback? Fale comigo! :speech_balloon:
 - Estou disponível para critícas, elogios ou só se quiser bater um papo mesmo :)
